@@ -4,8 +4,9 @@ import './index.css';
 import Home from './view/home';
 import About from './view/about';
 import Catalog from './view/catalog';
-import App from './App';
+
 import reportWebVitals from './reportWebVitals';
+import'../node_modules/bootstrap/dist/css/bootstrap.min.css'
 
 import { createBrowserRouter, RouterProvider, } from "react-router-dom";
 

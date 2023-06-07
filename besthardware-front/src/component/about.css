@@ -1,0 +1,13 @@
+.body{
+  background-image: url("../../public/img/jjj.jpg");
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  padding: 100px 0;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+.p{
+  color: white;
+}
